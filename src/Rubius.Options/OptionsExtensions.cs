@@ -2,7 +2,7 @@ using System;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 
-namespace Donik.Options
+namespace Rubius.Options
 {
     /// <summary>
     /// Расширение для настроек

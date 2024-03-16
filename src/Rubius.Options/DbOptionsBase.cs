@@ -1,4 +1,4 @@
-namespace Donik.Options
+namespace Rubius.Options
 {
     /// <summary>
     /// Базовые настройки для базы данных
