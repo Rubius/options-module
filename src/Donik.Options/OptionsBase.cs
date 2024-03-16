@@ -1,12 +1,13 @@
-namespace Donik.Options;
-
-/// <summary>
-/// Базовые настройки
-/// </summary>
-public abstract class OptionsBase
+namespace Donik.Options
 {
     /// <summary>
-    /// Название секции
+    /// Базовые настройки
     /// </summary>
-    public abstract string SectionName { get; }
+    public abstract class OptionsBase
+    {
+        /// <summary>
+        /// Название секции
+        /// </summary>
+        public abstract string SectionName { get; }
+    }
 }
