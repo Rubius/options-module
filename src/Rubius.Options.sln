@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donik.Options", "Donik.Options\Donik.Options.csproj", "{70D5B956-4571-43D3-8514-5B6AB51C0754}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubius.Options", "Rubius.Options\Rubius.Options.csproj", "{70D5B956-4571-43D3-8514-5B6AB51C0754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
